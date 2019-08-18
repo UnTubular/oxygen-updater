@@ -266,8 +266,13 @@ För att verifiera detta kan du kontrollera nuvarande version av ditt system enl
     <string name="install_guide_zip_file_missing">"Om du vill behålla root så måste du välja ett rootpaket ovan."</string>
 
     <!-- Device information strings -->
+    <string name="device_information_hardware_header">Hårdvara</string>
+	<string name="device_information_software_header">Mjukvara</string>
+    
     <string name="device_information_amount_of_memory">"Mängd av RAM:"</string>
     <string name="device_information_cpu_frequency">"Processorfrekvens:"</string>
+    <string name="device_information_device_name" translatable="false">%1$s %2$s</string>
+	<string name="device_information_gigahertz" translatable="false">%1$s GHz</string>
     <string name="device_information_header">"Min enhet"</string>
     <string name="device_information_header_short">"Min enhet"</string>
     <string name="device_information_image_description">"Enhetsbild"</string>
@@ -284,17 +289,7 @@ För att verifiera detta kan du kontrollera nuvarande version av ditt system enl
     <!-- About screen strings -->
     <string name="about">"Om appen"</string>
     <string name="about_app_description">"Det ultimata verktyget för OxygenOS uppdateringar."</string>
-    <string name="about_background_story">"Den här appen är skapad av Arjan Vlek.
-
-Den här appen är en uppföljning på en annan app av mig, som heter Cyanogen Update Tracker (<a href="https://cyanogenupdatetracker.com">website</a>). Cyanogen Update Tracker ger liknande funktioner för användare av Cyanogen OS.
-
-
-Observera att detta inte är en officiell OnePlus-applikation.
-OnePlus-namnet, OnePlus-logotypen och OxygenOS är egendom för OnePlus.
-Android, Google, Google Play och Google Play-logotypen är registrerade varumärken som tillhör Google Inc.
-Den här appen använder data från OnePlus och OPPO för att visa uppdateringsinformation.
-
-Om du gillar min app kan du betygsätta den på Google Play nu:"</string>
+    <string name="about_background_story">Denna app utvecklades ursprungligen av Arjan Vlek som en uppföljning till en annan av hans appar, kallad <a href="https://cyanogenupdatetracker.com/">Cyanogen Update Tracker</a> (den ger liknande funktionalitet för Cyanogen OS-användare).\n\n Efter fyra år, i juli 2019, beslutade Arjan att avgå från båda projekten och överförde ägandeskapet av appen till ett team av utvecklare som kommer från olika länder. De tog på sig ansvaret för att ge OnePlus användare utmärkt service &amp; stöd för att få uppdateringar snabbare.\nDu kan hitta mer information om Arjans tillkännagivande <a href="https://oxygenupdater.com/api/v2.3/news-content/81/EN">här</a>.\n\n14:e augusti 2019 markerade den första utgåvan under det nya teamet. Den kom med nya funktioner som mörkt läge och en fullständig omdesign.\n\nFör mer information om teamet, kolla <a href="https://oxygenupdater.com/team/ ">webbplatsen</a>.\n\n\nObservera att detta inte är en officiell OnePlus-applikation.\nNamnet på OnePlus, OnePlus-logotypen och OxygenOS tillhör OnePlus.\nAndroid, Google, Google Play och Google Play-logotypen är registrerade varumärken som tillhör Google Inc.\nDenna app använder data från OnePlus och dess moderföretag Oppo för att visa uppdateringsinformation.\n\nOm du gillar den här appen, betygsätt den gärna på Play Store:</string>
     <string name="about_rate_app_button_text">"Betygsätt på Google Play"</string>
     <string name="about_version">"Version: %1$s"</string>
 
